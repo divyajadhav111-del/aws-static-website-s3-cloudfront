@@ -1,0 +1,7 @@
+# Never commit secrets
+*.pem
+*.key
+.env
+.aws/
+credentials
+.DS_Store
